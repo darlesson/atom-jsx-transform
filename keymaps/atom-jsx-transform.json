@@ -1,0 +1,5 @@
+{
+    "atom-workspace": {
+        "ctrl-alt-j c": "atom-jsx-transform:compile"
+    }
+}

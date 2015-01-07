@@ -1,0 +1,18 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "Compile JSX file to JS",
+            "command": "atom-jsx-transform:compile"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "JSX Transform",
+            "submenu": [{
+                "label": "Compile JSX File",
+                "command": "atom-jsx-transform:compile"
+            }]
+        }]
+    }]
+}

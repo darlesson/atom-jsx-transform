@@ -1,0 +1,15 @@
+{
+  "name": "atom-jsx-transform",
+  "main": "./lib/atom-jsx-transform",
+  "version": "0.0.0",
+  "description": "Compile JSX files to JS",
+  "activationCommands": [],
+  "repository": "https://github.com/darlesson/atom-jsx-transform",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+    "react-tools": "=0.10.0"
+  }
+}
