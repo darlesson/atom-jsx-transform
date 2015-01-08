@@ -45,3 +45,6 @@ Temporary Items
 # Folders
 .idea/
 node_modules
+
+# Othe files
+npm-debug.log
