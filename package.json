@@ -1,7 +1,7 @@
 {
   "name": "atom-jsx-transform",
   "main": "./lib/atom-jsx-transform",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A convenient compiler of React JSX files to javascript.",
   "repository": "https://github.com/darlesson/atom-jsx-transform",
   "license": "MIT",
