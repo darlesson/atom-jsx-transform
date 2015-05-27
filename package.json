@@ -1,15 +1,14 @@
 {
   "name": "atom-jsx-transform",
   "main": "./lib/atom-jsx-transform",
-  "version": "0.1.0",
-  "description": "Compile JSX files to JS",
-  "activationCommands": [],
+  "version": "0.2.0",
+  "description": "A convenient compiler of React JSX files to javascript.",
   "repository": "https://github.com/darlesson/atom-jsx-transform",
   "license": "MIT",
   "engines": {
-    "atom": "*"
+    "atom": ">=0.174.0"
   },
   "dependencies": {
-    "react-tools": "=0.10.0"
+    "react-tools": ">0.10.0"
   }
 }
